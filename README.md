@@ -5,3 +5,12 @@ Pada bagian awal kode, program mengimpor module readline yang berfungsi untuk me
 Selain itu, program juga menggunakan sebuah array bernama namaBulan yang berisi daftar nama bulan dalam Bahasa Indonesia, mulai dari Januari hingga Desember. Array ini digunakan untuk menampilkan hasil tanggal lahir dengan format yang lebih mudah dipahami oleh pengguna, sehingga output tidak hanya berupa angka bulan, tetapi juga nama bulan secara lengkap. Setelah user memasukkan data, program akan mengubah input menjadi tipe data integer menggunakan parseInt, kemudian melakukan validasi sederhana untuk memastikan bahwa tanggal berada dalam rentang 1–31 dan bulan dalam rentang 1–12. Jika input valid, maka program akan memanggil fungsi tentukanZodiak dan menampilkan hasil berupa tanggal lahir serta zodiak pengguna.
 
 Program ini dapat dijalankan dengan membuka terminal pada folder project dan mengetikkan perintah node zodiak.js. Setelah itu, user dapat langsung memasukkan tanggal dan bulan lahir sesuai instruksi yang muncul di layar. Berdasarkan beberapa percobaan yang telah dilakukan, program berjalan dengan baik dan mampu menampilkan hasil zodiak sesuai dengan input yang diberikan. Pada dokumentasi repository ini juga disertakan minimal tiga screenshot hasil percobaan yang menunjukkan proses input dan output program di terminal sebagai bukti bahwa program berfungsi dengan benar.
+
+
+Sebagai bukti bahwa program berjalan dengan baik, berikut ditampilkan beberapa hasil percobaan saat program dijalankan melalui terminal.
+
+![Percobaan 1](screenshots/screenshot1.png)
+
+![Percobaan 2](screenshots/screenshot2.png)
+
+![Percobaan 3](screenshots/screenshot3.png)
