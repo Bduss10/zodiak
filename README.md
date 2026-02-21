@@ -9,8 +9,8 @@ Program ini dapat dijalankan dengan membuka terminal pada folder project dan men
 
 Sebagai bukti bahwa program berjalan dengan baik, berikut ditampilkan beberapa hasil percobaan saat program dijalankan melalui terminal.
 
-![Percobaan 1](screenshots/screenshot1.png)
+![Percobaan 1](screenshots/screenshot1.PNG)
 
-![Percobaan 2](screenshots/screenshot2.png)
+![Percobaan 2](screenshots/screenshot2.PNG)
 
-![Percobaan 3](screenshots/screenshot3.png)
+![Percobaan 3](screenshots/screenshot3.PNG)
